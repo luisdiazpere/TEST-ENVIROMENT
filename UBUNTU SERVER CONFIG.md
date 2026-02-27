@@ -49,3 +49,11 @@ To                         Action      From
 | 22 | Conexion ssh  |
 | 9997 | Logs de Win server  |
 
+
+
+#SPLUNK 
+
+La instalacion de splunk de este lab se hizo con la documentacion y videos del mismo splunk.
+
+Instalacion en linux: https://www.youtube.com/watch?v=IvpUvqYq4cE
+
