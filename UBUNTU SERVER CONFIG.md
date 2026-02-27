@@ -51,7 +51,7 @@ To                         Action      From
 
 
 
-#SPLUNK 
+# SPLUNK 
 
 La instalacion de splunk de este lab se hizo con la documentacion y videos del mismo splunk.
 
